@@ -5,6 +5,8 @@ AnimaPaper is a software that allow you to display a video (support most of the 
 Check the reddit topic for more informations:
 https://www.reddit.com/r/LivingBackgrounds/comments/57br0q/i_made_this_software_that_you_may_be_interested_in/
 
+Thanks to the people on reddit for their feedbacks and ideas on how to improve the software. Feel free to check / fork / modify as you please anything you want in this repository :)
+
 ## Informations about updates
 
 - I (IdolKeg) currently have midterm as well as writing a thesis. That's why there are not much update for now. Wait a bit I will update it when I will be done with everything :)
@@ -18,6 +20,7 @@ https://www.reddit.com/r/LivingBackgrounds/comments/57br0q/i_made_this_software_
 - There is not installer.
 
 ## Compile
+
 
 Require VS2015 and .NET Framework 4.5.
 
@@ -57,12 +60,13 @@ Work only for Windows 8, 8.1 and 10 for now.
 - Make a config file to load and play the last video on launch (idea: https://www.reddit.com/user/Hi_ItsPaul)
 - Lower the CPU usage
 - Automatic crash report
+- UI button / dropdown list to set strech / keep ratio of video / gif
 
 ## Known issues
 
 - Work on multiple monitors in duplicate mode but not in extended mode
 - Doesn't work on Win 7 and lower
-
+- .gif may be stuck and not replay
 
 ## Usage
 
