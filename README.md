@@ -62,12 +62,14 @@ Work only for Windows 8, 8.1 and 10 for now.
 - Automatic crash report
 - UI button / dropdown list to set strech / keep ratio of video / gif
 - Add contextual menu to Windows to be able to right-click, set as wallpaper directly. (from https://github.com/Tsoccerguy3)
+
 ## Known issues
 
 - Work on multiple monitors in duplicate mode but not in extended mode
 - Doesn't work on Win 7 and lower
 - .gif may be stuck and not replay
 - MPEG-1 Files are working BUT MPEG-2 Files are not (it shows blank screen)
+
 ## Usage
 
 https://www.youtube.com/watch?v=Jj--GahPvUQ&feature=youtu.be
